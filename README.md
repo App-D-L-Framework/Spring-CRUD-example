@@ -6,7 +6,7 @@ Springboot CRUD 예제
 
 ## Use library 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-springboot-web, h2, lombok, jpa, jdbcAPI 
+spring-web, h2, lombok, jpa, jdbcAPI 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## 구현 기능 

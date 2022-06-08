@@ -1,6 +1,4 @@
 # Spring-CRUD-example
-Springboot CRUD 예제
-
 ## 설명
 기본적인 SpringBoot 학습을 위해 코드를 작성해보며 실습해보시라고 만든 간단한 CRUD Project 
 
